@@ -1,5 +1,5 @@
 
-*/
+/* probando integracion de Rodrigo Araujo prueba3 CID
 import javax.swing.JFrame;
 import org.math.plot.*;
 
@@ -118,4 +118,4 @@ public class GradientDescent{
       frame2.setSize(600, 600);
       frame2.setVisible(true);
     }
-}/*
+}*/
