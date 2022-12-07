@@ -3,7 +3,7 @@
 import javax.swing.JFrame;
 import org.math.plot.*;
 
-public class GradientDescent{
+public class HO6{
 	private double theta0;
 	private double theta1;
 
